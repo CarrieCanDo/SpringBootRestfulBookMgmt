@@ -1,4 +1,4 @@
-package com.example.SpringBootRestfulBookMgmt.entity;
+package com.example.springbootrestfulbookmgmt.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

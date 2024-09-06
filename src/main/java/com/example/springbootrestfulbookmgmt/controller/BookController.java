@@ -1,7 +1,7 @@
-package com.example.SpringBootRestfulBookMgmt.controller;
+package com.example.springbootrestfulbookmgmt.controller;
 
-import com.example.SpringBootRestfulBookMgmt.entity.Book;
-import com.example.SpringBootRestfulBookMgmt.service.BookService;
+import com.example.springbootrestfulbookmgmt.entity.Book;
+import com.example.springbootrestfulbookmgmt.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
